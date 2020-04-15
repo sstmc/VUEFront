@@ -55,7 +55,7 @@
           <Icon type="ios-construct" />退出
         </MenuItem>
         <MenuItem name="5">
-          <Icon type="ios-construct" />注销
+          <Icon type="ios-construct" />查看
         </MenuItem>
       </Menu>
     </div>
